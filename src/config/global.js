@@ -7,7 +7,7 @@ export default {
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        clases: ['banner-principal-decorativo-1'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
       {
@@ -241,14 +241,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos ',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Nombre centro de formación',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -256,9 +256,36 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Manuel Augusto Arias López ',
+          cargo: 'Instructor – Experto temático',
+          centro: 'Centro de Comercio y Servicios – Regional Quindío ',
+          fecha: 'Mayo de 2020',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia ',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital ',
+          fecha: 'Mayo de 2020',
+        },
+        {
+          nombre: 'Julieth Paola Vital López ',
+          cargo: 'Evaluadora Instruccional ',
+          centro:
+            'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital ',
+          fecha: 'Mayo de 2020',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes ',
+          cargo: 'Asesor pedagógico ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
+          fecha: 'Mayo de 2020',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
+          fecha: 'Mayo,2024',
         },
       ],
     },
@@ -266,19 +293,24 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Julián Fernando Vanegas Vera',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Full-Stack',
-          centro: 'Nombre centro de formación',
+          nombre: 'Leonardo Castellanos Rodriguez',
+          cargo: 'Desarrollador <i>Full Stack</i>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Productor Multimedia',
-          centro: 'Nombre centro de formación',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrollador <i>Full Stack</i> Junior',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -286,14 +318,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y Vinculador de RED',
-          centro: 'Nombre centro formación',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Diana Lizeth Lozada Díaz',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
