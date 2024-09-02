@@ -12,11 +12,11 @@
           img(src="@/assets/curso/temas/tema1/img01.svg", alt="")
         .col-lg-8
           p Cualquier proyecto que se desee emprender, independiente del campo en el que se vaya a desarrollar, requiere una información inicial con datos que permitan conocer todos sus pormenores, para que quienes lo realicen tengan claridad total al respecto y puedan tomar decisiones con base en factores argumentados, y así se minimicen al máximo los riesgos.
-          p Por consiguiente, el brief se convierte en la herramienta de información inicial para que el publicista y los creativos de la campaña puedan desarrollar las estrategias de comunicación, los conceptos creativos y las estructuras de los mensajes.
+          p Por consiguiente, el #[em brief] se convierte en la herramienta de información inicial para que el publicista y los creativos de la campaña puedan desarrollar las estrategias de comunicación, los conceptos creativos y las estructuras de los mensajes.
           .row
             .col-lg-12
               .cajon.color-secundario.p-4.mb-4
-                p Por ende, de acuerdo con el normal funcionamiento de un proceso publicitario, el brief debe ser realizado por la empresa y puntualmente, por el departamento de mercadeo, después de realizar la recolección de toda la información que será entregada a los profesionales del área.
+                p Por ende, de acuerdo con el normal funcionamiento de un proceso publicitario, el #[em brief] debe ser realizado por la empresa y puntualmente, por el departamento de mercadeo, después de realizar la recolección de toda la información que será entregada a los profesionales del área.
      
       Separador
       #t_1_1.titulo-segundo.color-acento-contenido
@@ -24,21 +24,21 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
-          p El brief nace como documento estratégico en el ámbito militar, donde las tropas hacen un proceso que llaman briefing, cuando van a realizar un movimiento, emboscada o procedimiento; en él, analizan todos los pormenores, obstáculos, ventajas y oportunidades a las que se enfrentan para obtener éxitos y minimizar riesgos.
-          p En muchos campos profesionales, se realiza un brief para iniciar los proyectos que se van a llevar cabo; por ejemplo, en el desarrollo de productos audiovisuales, en el diseño gráfico y en algunos procesos estratégicos empresariales.
-          p Para el caso de la publicidad, no hay un modelo de brief estándar; sin embargo, hay un grupo de elementos que son indispensables y básicos en la estructura de este documento. Los cuales, se verán a continuación divididos en dos tipos de brief que se han creado para facilitar el proceso de diagnóstico y planeación de la comunicación:
+          p El #[em brief] nace como documento estratégico en el ámbito militar, donde las tropas hacen un proceso que llaman briefing, cuando van a realizar un movimiento, emboscada o procedimiento; en él, analizan todos los pormenores, obstáculos, ventajas y oportunidades a las que se enfrentan para obtener éxitos y minimizar riesgos.
+          p En muchos campos profesionales, se realiza un #[em brief] para iniciar los proyectos que se van a llevar cabo; por ejemplo, en el desarrollo de productos audiovisuales, en el diseño gráfico y en algunos procesos estratégicos empresariales.
+          p Para el caso de la publicidad, no hay un modelo de #[em brief] estándar; sin embargo, hay un grupo de elementos que son indispensables y básicos en la estructura de este documento. Los cuales, se verán a continuación divididos en dos tipos de #[em brief] que se han creado para facilitar el proceso de diagnóstico y planeación de la comunicación:
         .col-lg-4
           img(src="@/assets/curso/temas/tema1/img02.svg", alt="")
 
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-4
-              img.w-card-icon(src="@/assets/curso/temas/tema1/target1.svg")
-              h3.bg13.py-2.w-card-text Brief de primer contacto
+              img.w-card-icon(src="@/assets/curso/temas/tema1/1.png")
+              h3.bg13.py-2.w-card-text #[em Brief] de primer contacto
       
 
-      p El brief de primer contacto se elabora cuando una empresa contrata por primera vez a una agencia, asesor o freelancer publicitario. Este documento se caracteriza por ser más diagnóstico que estratégico, ya que su objetivo principal es permitir que quienes desarrollarán las estrategias de comunicación comprendan la compañía a través del análisis de las variables del mercado.
-      p Este tipo de brief es más general, enfocándose en la empresa en su totalidad y no en un producto o servicio específico. En esta etapa, es crucial que quienes realizan el estudio obtengan un conocimiento amplio y profundo de la empresa.
+      p El #[em brief] de primer contacto se elabora cuando una empresa contrata por primera vez a una agencia, asesor o freelancer publicitario. Este documento se caracteriza por ser más diagnóstico que estratégico, ya que su objetivo principal es permitir que quienes desarrollarán las estrategias de comunicación comprendan la compañía a través del análisis de las variables del mercado.
+      p Este tipo de #[em brief] es más general, enfocándose en la empresa en su totalidad y no en un producto o servicio específico. En esta etapa, es crucial que quienes realizan el estudio obtengan un conocimiento amplio y profundo de la empresa.
 
       figure.mb-5
         .video
@@ -52,49 +52,49 @@
           SlyderF.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico1.svg')
               .row.justify-content-center.mb-3
-                .col-lg-6.fondo-amarillo.p-2
-                  h5.text-center Nombre de la empresa
+                .col-lg-6.fondo-amarillo
+                  h4.text-center Nombre de la empresa
               p.text-center Se indica el nombre o razón social de la empresa a la que se le realizará la estrategia.
               
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico2.svg')
               .row.justify-content-center.mb-3
-                .col-lg-10.fondo-amarillo.p-2
-                  h5.text-center ¿Qué hace la empresa?
+                .col-lg-10.fondo-amarillo
+                  h4.text-center ¿Qué hace la empresa?
               p.text-center En este punto se puede relacionar la misión de la empresa, si es que la tiene. Es importante aclarar que muchas Mipymes, carecen de planeación estratégica, por lo que es recomendable guiar al empresario para que entregue la información de la forma más adecuada posible.
 
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico3.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Objetivo principal de la empresa
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Objetivo principal de la empresa
               p.text-center Así como en el caso anterior con la misión, en este punto se puede relacionar la visión que la empresa tenga consignada en su plan estratégico.
 
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico4.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Diferenciación de la empresa
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Diferenciación de la empresa
               p.text-center Fortaleza principal, innovación o propuesta de valor.
           
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico5.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Promesas secundarias
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Promesas secundarias
               p.text-center Otras fortalezas importantes que tenga la empresa.
             
             .tarjeta.color-secundario-cus.p-4
@@ -102,95 +102,95 @@
                 .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico6.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Mercado objetivo
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Mercado objetivo
               p.text-center Se describen las personas que compran o comprarían los productos o servicios de la empresa, es importante hacerlo lo más detallado posible.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico7.svg')
               .row.justify-content-center.mb-3
-                .col-lg-10.fondo-amarillo.p-2
-                  h5.text-center Portafolio de productos o servicios
+                .col-lg-10.fondo-amarillo
+                  h4.text-center Portafolio de productos o servicios
               p.text-center Se relacionan los productos o servicios de la empresa con una pequeña descripción de cada uno.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico8.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Antecedentes publicitarios
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Antecedentes publicitarios
               p.text-center Se describen y anexan las piezas gráficas, campañas, avisos utilizados en redes sociales y cualquier táctica promocional que la empresa haya realizado en los diferentes medios.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico9.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Necesidades publicitarias
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Necesidades publicitarias
               p.text-center Se indica lo que el empresario manifiesta necesitar en cuanto a promoción, marca, realización de campañas, publicidad en medios digitales, etc.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico10.svg')
               .row.justify-content-center.mb-3
-                .col-lg-10.fondo-amarillo.p-2
-                  h5.text-center Resultados esperados con la publicidad
+                .col-lg-10.fondo-amarillo
+                  h4.text-center Resultados esperados con la publicidad
               p.text-center Se indica lo que el empresario espera suceda con las estrategias de promoción y comunicación que va a realizar.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico11.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Competencia
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Competencia
               p.text-center Se requiere mencionar los competidores y posibles sustitutos que puedan sustraerle compradores a la empresa. También es importante hacer una reseña de cada uno, donde se indiquen sus fortalezas principales.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico12.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Políticas de la empresa
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Políticas de la empresa
               p.text-center Deben escribirse las políticas y filosofías que guían el funcionamiento de la empresa, la manera de hacer las cosas, el trato con los clientes, la relación con el personal, campañas de bien social, etc.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico13.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Posicionamiento
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Posicionamiento
               p.text-center Se describe el posicionamiento de la empresa, la percepción que tienen los consumidores de ella o de sus marcas, y el nivel de recordación.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-4.my-5.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico14.svg')
               .row.justify-content-center.mb-3
-                .col-lg-8.fondo-amarillo.p-2
-                  h5.text-center Contacto
+                .col-lg-8.fondo-amarillo
+                  h4.text-center Contacto
               p.text-center Se escriben los datos de la persona que estará comunicada con la agencia, asesor o freelancer publicitario.
         
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-4
-              img.w-card-icon(src="@/assets/curso/temas/tema1/target2.svg")
-              h3.bg13.py-2.w-card-text Brief de campaña táctica
+              img.w-card-icon(src="@/assets/curso/temas/tema1/2.png")
+              h3.bg13.py-2.w-card-text #[em Brief] de campaña táctica
 
 
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
           .col-lg-4.col-8.col-sm-6
-            img(src='@/assets/curso/temas/tema1/img04.svg')
+            img(src='@/assets/curso/temas/tema1/img04.png')
           .col-lg-8
-            p Para este brief, al contrario del de primer contacto, su finalidad es el desarrollo estratégico de la comunicación de una empresa, para lograr un resultado en particular. Es importante tener en cuenta que una táctica es una pequeña parte de una estrategia; por lo tanto, cuando una empresa requiere de la implementación de un plan de comunicaciones, tendrá la necesidad de crear varios de ellos. También, cabe resaltar que este tipo de brief tiene un enfoque específico en un producto o servicio o en su defecto, en una línea de estos; es poco frecuente que sea funcional para aquellos que pertenecen a varias líneas, a no ser que la estrategia sean ofertas que los involucre en una misma campaña. 
-            p El brief de campaña táctica, es un brief que además de hacer diagnóstico de algunas variables de la empresa, tiene componentes estratégicos y creativos, los cuales permiten que el departamento o la persona encargada del mercadeo de la Mipyme y el creativo publicitario, sean coparticipes del desarrollo de la táctica de comunicación a implementar. Para complementar esta información diríjase al siguiente video: 
+            p Para este #[em brief], al contrario del de primer contacto, su finalidad es el desarrollo estratégico de la comunicación de una empresa, para lograr un resultado en particular. Es importante tener en cuenta que una táctica es una pequeña parte de una estrategia; por lo tanto, cuando una empresa requiere de la implementación de un plan de comunicaciones, tendrá la necesidad de crear varios de ellos. También, cabe resaltar que este tipo de brief tiene un enfoque específico en un producto o servicio o en su defecto, en una línea de estos; es poco frecuente que sea funcional para aquellos que pertenecen a varias líneas, a no ser que la estrategia sean ofertas que los involucre en una misma campaña. 
+            p El #[em brief] de campaña táctica, es un #[em brief] que además de hacer diagnóstico de algunas variables de la empresa, tiene componentes estratégicos y creativos, los cuales permiten que el departamento o la persona encargada del mercadeo de la Mipyme y el creativo publicitario, sean coparticipes del desarrollo de la táctica de comunicación a implementar. Para complementar esta información diríjase al siguiente video: 
 
 
       figure.mb-5
@@ -201,8 +201,8 @@
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center.mt-4
-            img.w-card-icon(src="@/assets/curso/temas/tema1/target3.svg")
-            h3.bg13.py-2.w-card-text Elementos del brief de campaña táctica
+            img.w-card-icon(src="@/assets/curso/temas/tema1/3.png")
+            h3.bg13.py-2.w-card-text Elementos del #[em brief] de campaña táctica
       .py-3
       AcordionA(tipo="b" clase-tarjeta="tarjeta bgimg")
         .row.justify-content-center.align-items-center.mb-5(titulo="Indentificación")
@@ -259,7 +259,7 @@
         
         .row.justify-content-center.align-items-center.mb-5(titulo="<i>Target</i>")
           .col-md-6.mb-4.mb-md-0
-              p #[em #[b  target:]] siendo la variable más importante del mercado, el target de la marca es el elemento principal a analizar en un brief para el desarrollo de la campaña. Para este punto, deben tenerse en cuenta dos partes fundamentales:
+              p #[em #[b  target:]] siendo la variable más importante del mercado, el target de la marca es el elemento principal a analizar en un #[em brief] para el desarrollo de la campaña. Para este punto, deben tenerse en cuenta dos partes fundamentales:
               .row
                 .col-md-2.mb-4.mb-md-0.col-4
                   img(src="@/assets/curso/temas/tema1/law4.svg")
@@ -276,7 +276,7 @@
         
         .row.justify-content-center.align-items-center.mb-5(titulo="Mensaje")
           .col-md-6.mb-4.mb-md-0
-              p #[b  Mensaje principal a comunicar:] la razón principal por la que se hace un brief, es el desarrollo de un mensaje publicitario que luego será expuesto con imágenes, textos, videos, audios y la combinación de todos ellos. En este punto, la empresa toma las decisiones del mensaje a comunicar para que la agencia, asesor o freelancer publicitario las conviertan en conceptos creativos originales, llamativos y atractivos. Se divide en los siguientes elementos:
+              p #[b  Mensaje principal a comunicar:] la razón principal por la que se hace un #[em brief], es el desarrollo de un mensaje publicitario que luego será expuesto con imágenes, textos, videos, audios y la combinación de todos ellos. En este punto, la empresa toma las decisiones del mensaje a comunicar para que la agencia, asesor o freelancer publicitario las conviertan en conceptos creativos originales, llamativos y atractivos. Se divide en los siguientes elementos:
               .row
                 .col-md-2.mb-4.mb-md-0.col-4
                   img(src="@/assets/curso/temas/tema1/law6.svg")

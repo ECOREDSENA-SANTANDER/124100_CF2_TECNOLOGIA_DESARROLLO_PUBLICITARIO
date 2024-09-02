@@ -63,7 +63,7 @@
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-4
-              img.w-card-icon(src="@/assets/curso/temas/tema2/ico1.svg")
+              img.w-card-icon(src="@/assets/curso/temas/tema2/1.png")
               h3.bg13.py-2.w-card-text Segmentación industrial
 
       .row.justify-content-center.align-items-center.mb-5
@@ -72,9 +72,9 @@
         .col-lg-9
           p Muchas empresas tienen dentro de su portafolio productos o servicios, los cuales tienen como mercado objetivo otras empresas y su método de negociación incluye el B2B (Business to Business) o negocio a negocio. Por ejemplo, para un fabricante de máquinas de coser cuero, su mercado objetivo son fábricas de artículos de este material y no enfoca sus estrategias en el de consumidores.
           .row.justify-content-start.mb-4(data-aos="zoom-in-left")
-            .col-sm-12.col-lg-7
+            .col-sm-12.col-lg-9
               .d-flex.align-items-center.mt-4
-                img.w-card-icon(src="@/assets/curso/temas/tema2/ico2.svg")
+                img.w-card-icon(src="@/assets/curso/temas/tema2/2.png")
                 h3.bg13.py-2.w-card-text Pasos para la segmentación industrial
               .py-2
               p El proceso de la segmentación industrial es relativamente sencillo y la caracterización de las empresas incluye solo algunas variables muy puntuales. Los pasos para su aplicación son:
@@ -174,19 +174,34 @@
                   li 
                     i.fas.fa-check-circle
                     | #[b Grandes empresas:] ingresos superiores al valor expresado anteriormente.
-
-
+      
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center.mt-4
-            img.w-card-icon(src="@/assets/curso/temas/tema2/ico8.svg")
+            img.w-card-icon(src="@/assets/curso/temas/tema2/3.png")
+            h3.bg13.py-2.w-card-text Actividad económica
+      
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-6
+          img.imgsize1(src="@/assets/curso/temas/tema2/dane.png").py-3
+          p Una vez se hayan aplicado estas variables, es necesario determinar el tamaño del mercado de forma cuantitativa; para ello, se puede acceder a información secundaria disponible en algunas entidades y agremiaciones; por ejemplo, el DANE actualiza de forma permanente el censo económico y esta información se puede descargar de su sitio web. 
+        .col-lg-6
+          img.imgsize2(src="@/assets/curso/temas/tema2/fenalco.png").py-3
+          p Una vez se hayan aplicado estas variables, es necesario determinar el tamaño del mercado de forma cuantitativa; para ello, se puede acceder a información secundaria disponible en algunas entidades y agremiaciones; por ejemplo, el DANE actualiza de forma permanente el censo económico y esta información se puede descargar de su sitio web. 
+      
+      hr
+       
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-sm-12.col-lg-7
+          .d-flex.align-items-center.mt-4
+            img.w-card-icon(src="@/assets/curso/temas/tema2/4.png")
             h3.bg13.py-2.w-card-text Segmentación de consumidores
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-12
           p Es una de las herramientas más importantes para cualquier empresa, en el desarrollo de estrategias de comercialización, mercadeo y promoción. La caracterización de los clientes permite la satisfacción de las necesidades con el mínimo de fallas, pues conocer a detalle sus expectativas, se convierte en la información más importante en la generación de productos y servicios. Esta segmentación se realiza aplicando variables demográficas en dos fases diferentes, en la primera se determina el mercado potencial de la empresa y en la segunda el mercado real. Ambas, representan un alto nivel de importancia, debido a las posibilidades que otorgan para el desarrollo de las estrategias.
       
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center
         .col-lg-4
           .titulo-sexto.color-acento-contenido
             h5 Figura 1.
@@ -195,7 +210,18 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
           img(src='@/assets/curso/temas/tema2/figura1.svg', alt='La imagen ilustra el proceso de segmentación de mercado mediante un diagrama concéntrico que abarca desde el universo total hasta segmentos específicos. Comienza con el mercado potencial, definido por variables demográficas básicas y geográficas, y se estrecha hacia el mercado real, caracterizado por variables psicográficas y demográficas más detalladas. Dentro del mercado real, se identifican grupos específicos (Grupo 1, Grupo 2, Grupo 3) que representan segmentos de mercado precisos basados en comportamientos de compra y rangos demográficos reducidos.')
-
+      
+      .row.mb-5
+        .col-lg-8
+          ol.lista-ol--cuadro
+            li 
+              .lista-ol--cuadro__vineta
+                span a
+              | <b>Mercado potencial</b>
+        .col-lg-12
+          p Es el grupo de los posibles consumidores del producto o usuarios del servicio, en este segmento se aplican variables demográficas en las que se asignan rangos amplios, debido a que se tendrán en cuenta todos aquellos que compran productos similares o de la competencia. Por ejemplo, para una empresa que comercializa café instantáneo, los consumidores de café en general, hacen parte de su mercado potencial. Este mercado, permite el diseño de estrategias de desarrollo, las cuales se aplican de acuerdo con el análisis derivado de la matriz de Ansoff, de la que se habló anteriormente. Variables para la caracterización del mercado potencial:
+      
+      
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-3.col-sm-6.col-8
           img(src="@/assets/curso/temas/tema2/img06.png")
@@ -228,19 +254,51 @@
             h5 Tabla 1. 
             span Proceso de segmentación – Bogotá
           img(src='@/assets/curso/temas/tema2/tabla1.svg', alt='La tabla muestra la población de Bogotá, D.C. en 2020, dividida por grupos de edad y género, con un total de 7.743.955 personas: 3.707.833 hombres y 4.036.111 mujeres. Los datos están segmentados en intervalos de cinco años, desde 0-4 hasta 70-74 años. Por ejemplo, en el grupo de 0-4 años hay 493.287 personas (251.852 hombres y 241.435 mujeres), y en el grupo de 20-24 años hay 711.590 personas (354.946 hombres y 356.644 mujeres), proporcionando una visión detallada de la distribución etaria y de género en la ciudad. ')
+          .py-2
+         
+
         .col-lg-6
           .titulo-sexto.color-secundario
             h5 Tabla 2. 
             span Distribución de los hogares por estrato socioeconómico a nivel nacional 
           img(src='@/assets/curso/temas/tema2/tabla2.svg', alt='El gráfico muestra la distribución de hogares por estrato socioeconómico a nivel nacional, indicando que la mayoría de los hogares se encuentran en los estratos 2 y 3. Específicamente, el 44.2% de los hogares pertenece al estrato 2, seguido del 27.1% en el estrato 3. Los estratos 1 y 4 representan el 22.3% y 6.3% de los hogares, respectivamente, mientras que los estratos 5 y 6 tienen una menor representación, con 1.9% y 1.2% de los hogares. En términos de millones de hogares, esto se refleja en una mayor concentración en los estratos medios y bajo ')
+          figcaption Fuente: DNP (2020)
 
-        .py-3
-        .row.mb-5
+        
+        
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            h5 Ejemplo:
+            ul 
+              li 
+                i  
+                  | Ubicación geográfica: Bogotá
+              li    
+                  | Sexo: mujeres
+              li  
+                  | Edad: 20 a 30 años
+              li    
+                  | Estrato: 1 al 3
+            p De acuerdo con los datos de la Figura 2, el total del este mercado potencial es de 732.813:
+            p El dato resultó de la suma de los valores de la columna Mujeres que están sombreados, para el caso se tomaron los quinquenios 20-24 y 25-29.
+            p Para hallar el estrato, basta con tomar la información de la Figura 4. Los estratos 1, 2 y 3 suman el 90,6 % de la población, esto da como resultado un total de 663.929 mujeres.
+            p El 90,6 % de 732.813 es 663.929.
+            p Es importante aclarar que esta cifra es aproximada, pero proporciona un dato muy cercano a la realidad, lo que permite tomar decisiones y crear estrategias de una forma más confiable para la empresa. Este mismo método se puede aplicar a los demás segmentos que se verán a continuación:
+          .col-lg-6 
+            .titulo-sexto.color-secundario
+              h5 Tabla 3. 
+              span Ejemplo poblacional
+            img(src='@/assets/curso/temas/tema2/tabla3.svg', alt='La tabla de población de Bogotá, D.C. en 2020 muestra un total de 7.743.955 personas, con 3.707.838 hombres y 4.036.117 mujeres, desglosada por grupos de edad en intervalos de cinco años. Destacan los grupos de 20-24 años con 711.590 personas (354.946 hombres y 356.644 mujeres) y de 25-29 años con 749.246 personas (373.077 hombres y 376.169 mujeres). Estos datos proporcionan una visión detallada de la distribución etaria y de género en la ciudad, siendo notable la mayor población en los rangos de edad joven-adulta. ')
+            figcaption Fuente: DNP (2020)
+        
+        
+        
+        .row
           .col-lg-8
             ol.lista-ol--cuadro
               li 
                 .lista-ol--cuadro__vineta
-                  span a
+                  span b
                 | <b>Mercado real</b>
         
         .row.justify-content-center.align-items-center.mb-5
@@ -326,7 +384,7 @@
                   p.text-center La ocupación muchas veces no está ligada al nivel educativo de una persona, el conocerla puede dar indicios de los estilos de vida de los miembros del mercado y los posibles temas que les producen interés.     
           
 
-        .row.mb-5(data-aos="fade-left")
+        .row(data-aos="fade-left")
           .col-lg-8
             ol.lista-ol--cuadro
               li 
@@ -459,7 +517,7 @@
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center.mt-4
-            img.w-card-icon(src="@/assets/curso/temas/tema2/ico16.svg")
+            img.w-card-icon(src="@/assets/curso/temas/tema2/5.png")
             h3.bg13.py-2.w-card-text Ocupación del tiempo libre
         .py-3
         .col-sm-12
@@ -468,7 +526,7 @@
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center.mt-4
-            img.w-card-icon(src="@/assets/curso/temas/tema2/ico17.svg")
+            img.w-card-icon(src="@/assets/curso/temas/tema2/6.png")
             h3.bg13.py-2.w-card-text Comportamiento de compra
         .py-3
         .col-sm-12
