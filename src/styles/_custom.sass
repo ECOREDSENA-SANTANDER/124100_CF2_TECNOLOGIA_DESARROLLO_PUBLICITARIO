@@ -35,14 +35,23 @@
   background-color: #AEE6E6
 
 .slyder-f__btn
-    width: 50px
-    height: 50px
-    background-color: #ffd947
-    border-radius: 50%
-    position: sticky
-    top: 50%
+    width: 8%
+    display: flex
+    align-items: center
+    justify-content: center
+    cursor: pointer
 .slyder-f__btn i 
-    font-size: 2rem !important
+    font-size: 2rem
+    min-width: 50px
+    max-width: 50px
+    min-height: 50px
+    max-height: 50px
+    flex: auto
+    border-radius: 50%
+    background-color: #ffd947
+    display: flex
+    justify-content: center
+    align-items: center
 .slyder-f__btn.pe-3
   margin-right: 1rem
   padding-right: 0 !important
@@ -58,6 +67,9 @@
   font-weight: 700
 .fa-chevron-right:before
   content: "\f054"
+
+.fa-circle-check:before
+  content: "\f058"
 .lista-ol--cuadro__vineta 
   background-color: #26aab7
 .fa-chevron-left:before
@@ -94,7 +106,10 @@
   position: relative
   top: -15px
   z-index: 0
-
+.tarjeta--gris
+  background-color: #AEE6E6
+.acordion__activo
+  background-color: #EFEFEF
 .bgimg2
   background-image: url('../assets/curso/temas/tema2/bannersly.png')
   background-repeat: no repeat

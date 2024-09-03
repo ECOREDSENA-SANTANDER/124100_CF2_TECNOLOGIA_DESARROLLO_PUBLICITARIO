@@ -49,7 +49,7 @@
               p.text-regular.bloque-texto-f__texto Por su parte, Philip Kotler, Gary Armstrong, Dionisio Cámara e Ignacio Cruz (2012), en su libro “Marketing”, indican que el mercado es un “Conjunto de compradores reales y potenciales de un producto. Estos compradores comparten una necesidad o un deseo particular que puede satisfacerse mediante una relación de intercambio”. (pág.10)
               h5.text-regular.bloque-texto-f__texto #[b - Philip Kotler, Gary Armstrong, Dionisio Cámara e Ignacio Cruz  (2012)]
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-5.col-8.col-sm-6
+          .col-lg-5.col-8.col-sm-6.py-2
             img(src="@/assets/curso/temas/tema2/img03.png", alt="")
           .col-lg-7
             p En un sentido más amplio de la palabra mercado y desde el punto de vista de la empresa, se podría decir que es el conjunto de todas las variables que interfieren en el desarrollo comercial de los productos y servicios; teniendo en cuenta que confluyen todos los actores del proceso de mercadeo y los factores que obligan a las empresas a desarrollar diferentes estrategias para permanecer en él y ser competitivas.
@@ -67,7 +67,7 @@
               h3.bg13.py-2.w-card-text Segmentación industrial
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3.col-8.col-sm-6
+        .col-lg-3.col-8.col-sm-6.py-2
           img(src="@/assets/curso/temas/tema2/img04.png", alt="")
         .col-lg-9
           p Muchas empresas tienen dentro de su portafolio productos o servicios, los cuales tienen como mercado objetivo otras empresas y su método de negociación incluye el B2B (Business to Business) o negocio a negocio. Por ejemplo, para un fabricante de máquinas de coser cuero, su mercado objetivo son fábricas de artículos de este material y no enfoca sus estrategias en el de consumidores.
@@ -265,7 +265,7 @@
           figcaption Fuente: DNP (2020)
 
         
-        
+        .py-2
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
             h5 Ejemplo:
@@ -396,12 +396,13 @@
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left").celeste.p-4
         .col-lg-12
-          p.fas.fa-check.px-2
-          | #[b Gustos:] Para la realización de estrategias de comunicación, la información del mercado en cuanto a sus preferencias en diferentes aspectos es muy relevante y genera mayor efectividad en los mensajes. Por ello, los gustos se determinan en cuanto a: gastronomía, música, lectura, series de TV, cine, tópicos en redes sociales y vestuario.
-          br
-          br
-          p.fas.fa-check.px-2
-          | #[b Personalidad:] Esta característica es muy subjetiva, debido a que la percepción que una persona tiene en determinado grupo social puede ser discordante con la que tiene en otro; sin embargo, psicólogos como Carl Jung, han realizado compendios en los que se pueden individualizar a las personas, de acuerdo con su comportamiento y actitudes frente a diferentes situaciones. Jung, realizó un esquema con 8 tipos de personalidad, los cuales cita Velásquez (2020): 
+          ul.lista-ul--color
+            li
+              i.fas.fa-circle-check
+              | #[b Gustos:] Para la realización de estrategias de comunicación, la información del mercado en cuanto a sus preferencias en diferentes aspectos es muy relevante y genera mayor efectividad en los mensajes. Por ello, los gustos se determinan en cuanto a: gastronomía, música, lectura, series de TV, cine, tópicos en redes sociales y vestuario.
+            li 
+              i.fas.fa-circle-check
+              | #[b Personalidad:] Esta característica es muy subjetiva, debido a que la percepción que una persona tiene en determinado grupo social puede ser discordante con la que tiene en otro; sin embargo, psicólogos como Carl Jung, han realizado compendios en los que se pueden individualizar a las personas, de acuerdo con su comportamiento y actitudes frente a diferentes situaciones. Jung, realizó un esquema con 8 tipos de personalidad, los cuales cita Velásquez (2020): 
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
@@ -411,13 +412,13 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/img08.png', alt='')
               .col-md-9.mb-4.mb-md-0
-                h3 Pensamiento introvertido
+                h4 Pensamiento introvertido
                 p Les interesa más las ideas que los hechos, estar en su realidad interior antes que en las demás personas. Es decir, están mucho más enfocadas en sus propios pensamientos que en lo que ocurre en el mundo exterior. 
                 p Les gustan los pensamientos abstractos, las reflexiones y los desafíos teóricos como los que presenta; por ejemplo, la filosofía. 
 
             .row
               .col-md-9.mb-4.mb-md-0
-                h3 Sentimental - introvertido
+                h4 Sentimental - introvertido
                 p Al ser de tipo introvertidas, son poco habladoras, pero a la vez pueden ser simpáticas o empáticas y pueden tener cierta facilidad para crear vínculos afectivos con un círculo pequeño, aunque no demostrarán su apego.
               .col-md-2.col-7
                 figure
@@ -428,14 +429,14 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/img10.png', alt='')
               .col-md-9.mb-4.mb-md-0
-                h3 Sensación - introvertido
+                h4 Sensación - introvertido
                 p Quienes tienen esta personalidad, están enfocados a los fenómenos subjetivos más que a los objetivos que ocurren a su alrededor, como el resto de las personalidades introvertidas.
                 p Pero la diferencia, es que, en este caso, estos fenómenos están más relacionados con las impresiones sensoriales y sus sensaciones internas. Según Jung, este tipo de personalidad suele describir a las personas que se dedican al arte o la artesanía.
 
 
             .row
               .col-md-9.mb-4.mb-md-0
-                h3 Intuitivo - introvertido
+                h4 Intuitivo - introvertido
                 p Son muy soñadores y fantasean bastante acerca del futuro, al punto de dejar casi de lado el presente. Se pueden reconocer por su carácter soñador.
               .col-md-2.col-7
                 figure
@@ -447,12 +448,12 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/img12.png', alt='')
               .col-md-9.mb-4.mb-md-0
-                h3 Pensamiento extrovertido
+                h4 Pensamiento extrovertido
                 p Crean explicaciones del mundo y de lo que los rodea, a partir de lo que ven a su alrededor, creándose reglas casi inamovibles sobre la realidad. Estas personas no suelen cambiar muy fácilmente su forma de ver las cosas y, además, intentarán imponer su visión a los demás. También, les sucede a menudo que intentan reprimir sus emociones y sentimientos.                 . 
 
             .row
               .col-md-9.mb-4.mb-md-0
-                h3 Sentimental - extrovertido
+                h4 Sentimental - extrovertido
                 p Son personas muy empáticas y tienen gran facilidad para conectarse con los demás, a la vez que disfrutan mucho de la compañía. Es un perfil muy bueno para las relaciones humanas, ya que cuentan con grandes habilidades sociales. En contrapartida, en general presentan baja inclinación a la reflexión y al pensamiento abstracto.
               .col-md-2.col-7
                 figure
@@ -463,7 +464,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/img14.png', alt='')
               .col-md-9.mb-4.mb-md-0
-                h3 Sensación - extrovertido
+                h4 Sensación - extrovertido
                 p En este tipo de personalidad, se mezclan la búsqueda de las sensaciones tangibles con la vivencia en el entorno y los demás. Las personas con este tipo de personalidad se sienten muy bien en interacción con otros y necesitan cambiar de estímulos de manera casi constante. 
         
             .row
@@ -479,12 +480,12 @@
               hr
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-12
-          p.fas.fa-check.px-2
+          p.fas.fa-circle-check.px-2
           | #[b Cultura:] es un tema complejo de estudiar, pues implica análisis antropológicos profundos; sin embargo, se pueden determinar rasgos que asocien a una persona en una cultura particular: tradiciones, costumbres, valores, entorno y estilos de comunicación. El análisis cultural, permite realizar estrategias de comunicación con un enfoque hacia la persona en su entorno social.
           br
           br
           hr
-          p.fas.fa-check.px-2
+          p.fas.fa-circle-check.px-2
           | #[b Ciclo de vida familiar:]  conforme el tiempo avanza, las familias se hacen más pequeñas; una muestra de ello es que, en los años cuarenta, el promedio en Colombia era de nueve personas y actualmente está alrededor de cuatro, lo que significa que las familias actuales tienen un máximo de dos hijos, generando cambios permanentes en las tendencias de consumo. Las prioridades de una pareja que no tiene hijos son muy diferentes a las que puede tener una familia de papá, mamá y dos hijos. Por este motivo, en las fases del ciclo de vida familiar, se pueden detallar las siguientes:
 
       .row.justify-content-center.align-items-center.mb-5

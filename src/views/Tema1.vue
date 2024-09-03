@@ -27,7 +27,7 @@
           p El #[em brief] nace como documento estratégico en el ámbito militar, donde las tropas hacen un proceso que llaman briefing, cuando van a realizar un movimiento, emboscada o procedimiento; en él, analizan todos los pormenores, obstáculos, ventajas y oportunidades a las que se enfrentan para obtener éxitos y minimizar riesgos.
           p En muchos campos profesionales, se realiza un #[em brief] para iniciar los proyectos que se van a llevar cabo; por ejemplo, en el desarrollo de productos audiovisuales, en el diseño gráfico y en algunos procesos estratégicos empresariales.
           p Para el caso de la publicidad, no hay un modelo de #[em brief] estándar; sin embargo, hay un grupo de elementos que son indispensables y básicos en la estructura de este documento. Los cuales, se verán a continuación divididos en dos tipos de #[em brief] que se han creado para facilitar el proceso de diagnóstico y planeación de la comunicación:
-        .col-lg-4
+        .col-lg-4.col-sm-7
           img(src="@/assets/curso/temas/tema1/img02.svg", alt="")
 
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
