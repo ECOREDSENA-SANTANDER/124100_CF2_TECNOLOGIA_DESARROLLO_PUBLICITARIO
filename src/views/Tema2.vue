@@ -534,11 +534,99 @@
           p Una vez caracterizado el mercado objetivo, a través de las variables demográficas y psicográficas, se debe aplicar un proceso adicional de análisis y segmentación, relacionado con la interacción del mercado con el producto en la realización de la compra. Para este proceso, se utilizan dos grupos de variables: los 4 Quién y QC2D.
           p #[b Los 4 Quién:] esta caracterización, se refiere a los actores que interfieren en el proceso de compra de un producto o servicio y su nivel de participación en el proceso. Este análisis se hace enfocando al consumidor en el producto para el que se está haciendo la segmentación y para la línea en general, con el fin de hallar rasgos que permitan el desarrollo de estrategias de comunicación en medios más directos:
 
+
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+        .col-lg-10.col-sm-10
+          SlyderF.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="zoom-in-left")
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-4.col-lg-5.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema2/01.svg')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Quién compra: 
+                .py-2
+                  p.text-center esta variable indica quién paga o proporciona el dinero para realizar la compra.
+                
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-4.col-lg-5.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema2/02.svg')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Quién realiza la compra: 
+                .py-2
+                  p.text-center indica quién es la persona que realiza el intercambio comercial en el punto de venta y en quién recae un alto porcentaje de la decisión de compra final.
+
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-4.col-lg-5.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema2/03.svg')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Quién incide: 
+                .py-2
+                  p.text-center por lo general, son factores externos como la publicidad, el voz a voz, la marca, el precio, el vendedor, la temporada, las promociones, entre otros.
+                
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-4.col-lg-5.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema2/04.svg')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Quién consume: 
+                .py-2
+                  p.text-centeres es la o las personas que finalmente consumen el producto o hacen uso del servicio.
+      
+      p.mb-5 #[b QC2D:] Este grupo de variables permite identificar el tipo de productos que una persona consume y su estilo regular de compra. La idea no es enfocarse en el producto para el cual se está segmentando, sino en su compra general, con el fin de hallar comportamientos comunes:
+    
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+        .col-lg-10.col-sm-10
+          SlyderF.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="zoom-in-left")
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-4.col-lg-5.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema2/1.svg')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Qué compra:
+                .py-2
+                  p.text-center se refiere a los tipos de productos que se compran por gama, clase o estilo: gama alta, genéricos, marcas propias, de combate, económicos o con garantías extendidas.
+                
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-4.col-lg-5.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema2/2.svg')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Cómo compra: 
+                .py-2
+                  p.text-center esto indica la forma de pago de los clientes: si es en efectivo, con tarjeta de crédito o débito, si fía en el canal tradicional o si paga en cuotas fijas.
+
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-4.col-lg-5.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema2/3.svg')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Cuándo compra:  
+                .py-2
+                  p.text-center esta variable está ligada al tipo de pago que recibe: quincenal, mensual, semanal, decenal o diario.
+                
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-4.col-lg-5.my-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema2/4.svg')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Dónde compra:  
+                .py-2
+                  p.text-centeres indica el o los lugares del mercado donde se realiza la compra.
           .row.justify-content-center.align-items-center.mb-5
-            .col-lg-10
+            .col-lg-11
               .cajon.color-secundario.p-4.mb-4
                 p Como se ha podido observar en este proceso de segmentación, para el desarrollo de la publicidad y las estrategias de comunicación, es necesario ser más exigentes con el análisis del consumidor, ya que el conocimiento profundo del comprador de un producto permite realizar acciones en función de llamar su atención, satisfacer sus necesidades a un nivel superior y obedecer a sus demandas a través del producto o servicio. Todas estas variables de caracterización se convierten en herramientas que, combinadas de la forma correcta, van a generar resultados eficaces en el proceso de comercialización y promoción de los bienes y servicios de la empresa.
-
+      
 </template>
 
 <script>
