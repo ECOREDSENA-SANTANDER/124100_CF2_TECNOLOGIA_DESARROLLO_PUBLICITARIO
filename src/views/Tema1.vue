@@ -37,18 +37,19 @@
               h3.bg13.py-2.w-card-text #[em Brief] de primer contacto
       
 
-      p El #[em brief] de primer contacto se elabora cuando una empresa contrata por primera vez a una agencia, asesor o freelancer publicitario. Este documento se caracteriza por ser más diagnóstico que estratégico, ya que su objetivo principal es permitir que quienes desarrollarán las estrategias de comunicación comprendan la compañía a través del análisis de las variables del mercado.
+      p El #[em brief] de primer contacto se elabora cuando una empresa contrata por primera vez a una agencia, asesor o #[em freelancer] publicitario. Este documento se caracteriza por ser más diagnóstico que estratégico, ya que su objetivo principal es permitir que quienes desarrollarán las estrategias de comunicación comprendan la compañía a través del análisis de las variables del mercado.
       p Este tipo de #[em brief] es más general, enfocándose en la empresa en su totalidad y no en un producto o servicio específico. En esta etapa, es crucial que quienes realizan el estudio obtengan un conocimiento amplio y profundo de la empresa.
 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/MrwV11u-FW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Brief publicitario
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-8.col-sm-4
           img(src="@/assets/curso/temas/tema1/img03.svg", alt="")
-        .col-lg-8.col-sm-7
+          .py-2
+        .col-lg-8.col-sm-7.col-10
           SlyderF.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
@@ -176,7 +177,7 @@
               .row.justify-content-center.mb-3
                 .col-lg-8.fondo-amarillo
                   h4.text-center Contacto
-              p.text-center Se escriben los datos de la persona que estará comunicada con la agencia, asesor o freelancer publicitario.
+              p.text-center Se escriben los datos de la persona que estará comunicada con la agencia, asesor o #[em freelancer] publicitario.
         
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
@@ -189,15 +190,16 @@
           .col-lg-4.col-8.col-sm-6
             img(src='@/assets/curso/temas/tema1/img04.png')
           .col-lg-8
+            .py-2
             p Para este #[em brief], al contrario del de primer contacto, su finalidad es el desarrollo estratégico de la comunicación de una empresa, para lograr un resultado en particular. Es importante tener en cuenta que una táctica es una pequeña parte de una estrategia; por lo tanto, cuando una empresa requiere de la implementación de un plan de comunicaciones, tendrá la necesidad de crear varios de ellos. También, cabe resaltar que este tipo de brief tiene un enfoque específico en un producto o servicio o en su defecto, en una línea de estos; es poco frecuente que sea funcional para aquellos que pertenecen a varias líneas, a no ser que la estrategia sean ofertas que los involucre en una misma campaña. 
             p El #[em brief] de campaña táctica, es un #[em brief] que además de hacer diagnóstico de algunas variables de la empresa, tiene componentes estratégicos y creativos, los cuales permiten que el departamento o la persona encargada del mercadeo de la Mipyme y el creativo publicitario, sean coparticipes del desarrollo de la táctica de comunicación a implementar. Para complementar esta información diríjase al siguiente video: 
 
 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video
-      
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/WTEgWp3YTm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Brief de campaña táctica
+
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center.mt-4
@@ -213,29 +215,28 @@
             img(src="@/assets/curso/temas/tema1/img05.png")
         
         .row.justify-content-center.align-items-center.mb-5(titulo="Necesidad")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-7.mb-4.mb-md-0
             p #[b  Necesidad de la marca:] hace referencia a la necesidad de comunicación de la empresa y se divide en los siguientes puntos.
-            p se deben incluir los datos relevantes de la campaña para su identificación: ciudad, fecha, cliente, producto, campaña y contacto.
             .row
-              .col-md-2.mb-4.mb-md-0.col-4
+              .col-md-2.mb-4.mb-md-0.col-2
                 img(src="@/assets/curso/temas/tema1/law1.svg")
               .col-md-10.mb-4.mb-md-0
                 p #[b Antecedentes:] un punto muy importante, porque describe todos los pormenores de la marca, que finalmente son las razones por las que la empresa ha decidido realizar la campaña; aquí, se deben relacionar los historiales de ventas, las ofensivas de la competencia, los cambios de comportamiento del mercado, los altos niveles de participación, los cambios en las tendencias o cualquier otro factor que afecte de forma negativa o positiva las ventas o posicionamiento de la marca.
           
-              .col-md-2.mb-4.mb-md-0.col-4
+              .col-md-2.mb-4.mb-md-0.col-2
                 img(src="@/assets/curso/temas/tema1/law1.svg")
               .col-md-10.mb-4.mb-md-0
                 p #[b La necesidad de la marca:] una vez entendida la situación del producto o servicio, es necesario plantear con base en dicha información, qué requiere la marca en cuanto a la comunicación para superar los obstáculos planteados o mantenerse en una situación favorable, si es el caso.
 
-              .col-md-2.mb-4.mb-md-0.col-4
+              .col-md-2.mb-4.mb-md-0.col-2
                 img(src="@/assets/curso/temas/tema1/law1.svg")
               .col-md-10.mb-4.mb-md-0
                 p #[b Residual de la comunicación:] ya planteada la necesidad, es claro lo que se busca con la comunicación, este punto describe lo que la empresa busca que suceda una vez la campaña haya sido expuesta al mercado.
-
-              .col-md-2.mb-4.mb-md-0.col-4
+              .py-2
+              .col-md-2.mb-4.mb-md-0.col-2
                 img(src="@/assets/curso/temas/tema1/law1.svg")
               .col-md-10.mb-4.mb-md-0
-                p #[b Descripción del proyecto:] gracias a la recolección y análisis de información relevante del producto, la empresa tiene las herramientas para la formulación de estrategias que permiten el aumento de ventas y posicionamiento de marca; en este punto deben exponerse para que la agencia de publicidad, asesor o freelancer sean capaces de comprenderlas e interpretarlas y les suministren recursos para la elaboración de la estrategia creativa.
+                p #[b Descripción del proyecto:] gracias a la recolección y análisis de información relevante del producto, la empresa tiene las herramientas para la formulación de estrategias que permiten el aumento de ventas y posicionamiento de marca; en este punto deben exponerse para que la agencia de publicidad, asesor o #[em freelancer] sean capaces de comprenderlas e interpretarlas y les suministren recursos para la elaboración de la estrategia creativa.
 
           .col-md-4.mb-4.mb-md-0.col-8
             img(src="@/assets/curso/temas/tema1/img06.png")
@@ -244,12 +245,12 @@
           .col-md-6.mb-4.mb-md-0
             p #[b  Objetivos:] para el desarrollo de una campaña táctica, la empresa debe trazarse dos tipos de objetivos:
             .row
-              .col-md-2.mb-4.mb-md-0.col-4
+              .col-md-2.mb-4.mb-md-0.col-3
                 img(src="@/assets/curso/temas/tema1/law2.svg")
               .col-md-10.mb-4.mb-md-0
                 p #[b Objetivo de comunicación:] es cualitativo y su enfoque está en el actuar del mercado objetivo, en su pensamiento o en sus sentimientos frente al mensaje al que será expuesto.
 
-              .col-md-2.mb-4.mb-md-0.col-4
+              .col-md-2.mb-4.mb-md-0.col-3
                 img(src="@/assets/curso/temas/tema1/law3.svg")
               .col-md-10.mb-4.mb-md-0
                 p #[b Objetivo de medios:] se plantea desde un punto de vista más cuantitativo y se enfoca en la cantidad de personas pertenecientes al mercado meta que va a alcanzarse con la campaña.
@@ -261,12 +262,13 @@
           .col-md-6.mb-4.mb-md-0
               p #[em #[b  target:]] siendo la variable más importante del mercado, el target de la marca es el elemento principal a analizar en un #[em brief] para el desarrollo de la campaña. Para este punto, deben tenerse en cuenta dos partes fundamentales:
               .row
-                .col-md-2.mb-4.mb-md-0.col-4
+                .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law4.svg")
                 .col-md-10.mb-4.mb-md-0
-                  p #[b Grupo objetivo:] es cualitativo y su enfoque está en el actuar del mercado objetivo, en su pensamiento o en sus sentimientos frente al mensaje al que será expuesto.
+                  p #[b Grupo objetivo:] debe ser descrito a partir de las características demográficas, las cuales permitirán poner a este grupo de consumidores en un contexto social y diferenciarlo de la masa.
 
-                .col-md-2.mb-4.mb-md-0.col-4
+
+                .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law5.svg")
                 .col-md-10.mb-4.mb-md-0
                   p #[b #[em Target] comunicacional:]  también es conocido como arquetipo de cliente; es una descripción individualizada y detallada del consumidor del producto o usuario del servicio a nivel psicográfico y conductual. En algunos productos, es necesario realizar varios targets comunicacionales y del desarrollo de múltiples versiones de la campaña para llegar a varios nichos.
@@ -276,19 +278,19 @@
         
         .row.justify-content-center.align-items-center.mb-5(titulo="Mensaje")
           .col-md-6.mb-4.mb-md-0
-              p #[b  Mensaje principal a comunicar:] la razón principal por la que se hace un #[em brief], es el desarrollo de un mensaje publicitario que luego será expuesto con imágenes, textos, videos, audios y la combinación de todos ellos. En este punto, la empresa toma las decisiones del mensaje a comunicar para que la agencia, asesor o freelancer publicitario las conviertan en conceptos creativos originales, llamativos y atractivos. Se divide en los siguientes elementos:
+              p #[b  Mensaje principal a comunicar:] la razón principal por la que se hace un #[em brief], es el desarrollo de un mensaje publicitario que luego será expuesto con imágenes, textos, videos, audios y la combinación de todos ellos. En este punto, la empresa toma las decisiones del mensaje a comunicar para que la agencia, asesor o #[em freelancer] publicitario las conviertan en conceptos creativos originales, llamativos y atractivos. Se divide en los siguientes elementos:
               .row
-                .col-md-2.mb-4.mb-md-0.col-4
+                .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law6.svg")
                 .col-md-10.mb-4.mb-md-0
-                  p #[b Beneficio racional:] edescribe lo que el consumidor debería pensar una vez sea expuesto al mensaje de la campaña.
+                  p #[b Beneficio racional:] describe lo que el consumidor debería pensar una vez sea expuesto al mensaje de la campaña.
                 .py-2
-                .col-md-2.mb-4.mb-md-0.col-4
+                .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law7.svg")
                 .col-md-10.mb-4.mb-md-0
                   p #[b Beneficio emocional:] aquí se expresa lo que el consumidor debería sentir cuando el mensaje de la campaña lo impacte. Este elemento se convierte en la base de ello, teniendo en cuenta que los estudios han determinado que la decisión de compra se realiza principalmente por los sentimientos; es decir, en la adquisición de un bien, prima el beneficio emocional por encima del racional.
           
-                .col-md-2.mb-4.mb-md-0.col-4
+                .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law8.svg")
                 .col-md-10.mb-4.mb-md-0
                   p #[b #[em Reason to believe:]] conocida también como reason why (la razón del por qué). Se refiere al motivo por la que el consumidor va a decidirse por el producto que se está promocionando, por qué debe creer que es mejor que el de la competencia.

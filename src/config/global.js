@@ -109,132 +109,109 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Bonta, P. y Farber, M. (2002). 199 preguntas sobre Marketing y Publicidad. Grupo Editorial NORMA.',
+      link: '',
+    },
+    {
+      referencia: 'Cervera, Á. F. (2015). Comunicación Total. Midac Digital.',
+      link: '',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'DANE. (s. f.). Proyecciones de Población. Consultado el 21 de mayo de 2019',
+      link: 'https://cutt.ly/UyIgKPo ',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Fernández, R. (2009). Segmentación de Mercados (3.a ed.). Mc Graw Hill. ',
+      link: '',
+    },
+    {
+      referencia: 'Kotler, P. & Armstrong, G. (2012). Marketing. Pearson. ',
+      link: '',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Merino, M. J. y Pintado, T. (2015). La investigación de mercados, claves para conocer los insights del consumidor. Esic editorial. ',
+      link: '',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Real Academia Española. (2019). Diccionario de la lengua española (edición del tricentenario).',
+      link: 'https://cutt.ly/QyIgjkj',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Velásquez, L. F. (2020, 28 de enero). 8 tipos de personalidad, Resúmenes de Derecho. Docsity.',
+      link: 'https://cutt.ly/WyIhy9m ',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Vilajoana, A., Jiménez, M., González, Z. y Vila, J. (2014). ¿Cómo diseñar una campaña de publicidad? Editorial UOC. ',
+      link: '',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: '<i>Brief</i>',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Documento diagnóstico y estratégico que realizan las empresas, con el fin de llevar a cabo procesos de comunicación y promoción.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Estrategia de mercadeo',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conjunto de tácticas que se estructuran con base en los elementos de la mezcla del mercadeo, con el propósito de desarrollar el programa correspondiente.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: '<i>Marketing</i>',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Disciplina que estudia las conductas y necesidades de los miembros de un mercado y su entorno, con el fin de generar productos o servicios que los satisfagan y obtener utilidades con su comercialización. ',
     },
     {
-      termino: '<em>Áctores</em>',
+      termino: 'Mercado',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Conjunto de variables y factores que afectan de forma positiva o negativa el proceso de producción, comercialización y promoción de los productos o servicios de las empresas.',
     },
     {
-      termino: 'Moda',
+      termino: 'Mercado meta',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Conjunto de miembros del mercado que tienen como característica principal el tener necesidades, gustos y conductas aptas para adquirir un producto o servicio.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Nicho de mercado',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es un grupo reducido de personas, empresas u organizaciones, con necesidades y/o deseos específicos, también puede estar conformado por una pequeña zona geográfica o un grupo de empresas.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Posicionamiento',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es el lugar que ocupa un producto en la mente de los consumidores. También es la percepción que tienen los consumidores o usuarios de un producto o servicio. ',
     },
     {
-      termino: 'Tipología',
+      termino: 'Segmentación de mercado',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'División que se hace del mercado, para formar grupos específicos con características demográficas y psicográficas similares.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      tema: 'El <i>brief</i>',
+      referencia: 'SCRIBD. Modelo <i>brief</i> de primer contacto.',
+      tipo: 'Documento  ',
+      link:
+        'https://es.scribd.com/document/655566910/Modelo-brief-de-primer-contacto ',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      tema: 'El <i>brief</i>',
+      referencia: 'Modelo <i>brief</i> de campaña táctica. ',
+      tipo: 'Documento PDF  ',
+      link: 'https://es.scribd.com/document/511165411/Brief-campan-a-ta-ctica ',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      tema: 'Concepto de mercado ',
+      referencia: 'Fernández, R. (2009). Segmentación de mercados. ',
+      tipo: 'Libro digital ',
+      link: 'edu/35795511/Segmentacino_de_Mercados_Ricardo_Fernandez_V ',
     },
   ],
   creditos: [
@@ -243,7 +220,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos ',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -258,19 +235,19 @@ export default {
       autores: [
         {
           nombre: 'Manuel Augusto Arias López ',
-          cargo: 'Instructor – Experto temático',
+          cargo: 'Instructor – experto temático',
           centro: 'Centro de Comercio y Servicios – Regional Quindío ',
           fecha: 'Mayo de 2020',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia ',
-          cargo: 'Diseñador Instruccional',
+          cargo: 'Diseñador instruccional',
           centro: 'Centro de Diseño y Metrología – Regional Distrito Capital ',
           fecha: 'Mayo de 2020',
         },
         {
           nombre: 'Julieth Paola Vital López ',
-          cargo: 'Evaluadora Instruccional ',
+          cargo: 'Evaluadora instruccional ',
           centro:
             'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital ',
           fecha: 'Mayo de 2020',
@@ -284,7 +261,7 @@ export default {
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
           fecha: 'Mayo,2024',
         },
@@ -295,22 +272,22 @@ export default {
       autores: [
         {
           nombre: 'Julián Fernando Vanegas Vera',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrollador <i>Full Stack</i>',
+          cargo: 'Desarrollador <i>fullstack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador <i>Full Stack</i> Junior',
+          cargo: 'Desarrollador <i>fullstack</i> junior',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -319,13 +296,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Diana Lizeth Lozada Díaz',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

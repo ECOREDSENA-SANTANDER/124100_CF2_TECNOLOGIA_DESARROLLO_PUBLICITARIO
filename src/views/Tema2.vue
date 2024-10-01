@@ -10,8 +10,9 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-4.col-8.col-sm-6
           img(src="@/assets/curso/temas/tema2/img01.png", alt="")
+          .py-2
         .col-lg-8 
-          p De acuerdo con el concepto más básico, el segmentar se refiere a “Cortar o partir algo en segmentos” (RAE, 2020). En el caso del marketing, consiste en dividir un mercado en varios grupos de individuos con características similares. La segmentación, es una herramienta que permite a los estrategas del mercadeo y la comunicación, conocer en detalle a grupos objetivo de individuos que presentan atributos particulares para el consumo de productos o el acceso a servicios específicos. 
+          p De acuerdo con el concepto más básico, el segmentar se refiere a “Cortar o partir algo en segmentos” (RAE, 2020). En el caso del #[em marketing], consiste en dividir un mercado en varios grupos de individuos con características similares. La segmentación, es una herramienta que permite a los estrategas del mercadeo y la comunicación, conocer en detalle a grupos objetivo de individuos que presentan atributos particulares para el consumo de productos o el acceso a servicios específicos. 
           .cajon.color-secundario.p-4.mb-4
             p #[b Por su parte, Fernández (2009), afirma:]
             p #[b “La segmentación de mercados es una herramienta de la mercadotecnia que requiere del apoyo de disciplinas como la estadística, la psicología, la sociología y la geografía, entre otras y es a partir de una serie de variables que la segmentación determina las características que hacen único a un grupo de mercado”.]
@@ -19,10 +20,10 @@
         .py-4
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Leyenda del video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/kzaxGqbo3-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Segmentación de mercados
 
-        p Para el diseño de las estrategias de marketing, el mercado se puede segmentar en dos grandes grupos: consumidores e industrial; estos, de igual forma, deben ser divididos en nichos más pequeños. El primero de ellos, como su nombre lo indica, el grupo de consumidores: tiene que ver con las personas que son usuarias de los servicios o que consumen los productos. El segundo: se refiere a las empresas que conforman nichos de mercado industriales. 
+        p Para el diseño de las estrategias de #[em marketing], el mercado se puede segmentar en dos grandes grupos: consumidores e industrial; estos, de igual forma, deben ser divididos en nichos más pequeños. El primero de ellos, como su nombre lo indica, el grupo de consumidores: tiene que ver con las personas que son usuarias de los servicios o que consumen los productos. El segundo: se refiere a las empresas que conforman nichos de mercado industriales. 
 
       Separador
       #t_2_1.titulo-segundo.color-acento-contenido
@@ -32,11 +33,11 @@
         .col-lg-8
           .bloque-texto-b.color-secundario.p-4
             .bloque-texto-b__texto
-              i.fas.fa-quote-left
-              p De acuerdo con Patricio Bonta y Mario Farber (2002), en su libro “199 Preguntas Sobre Marketing y Publicidad”, el mercado es:<br><br>
+        
+              p De acuerdo con Patricio Bonta y Mario Farber (2002), en su libro “199 Preguntas Sobre #[em marketing] y Publicidad”, el mercado es:<br><br>
               p Donde confluyen la oferta y la demanda. En un sentido menos amplio, el mercado es el conjunto de todos los compradores reales y potenciales de un producto. Por ejemplo: el mercado de los autos está formado no solamente por aquellos que poseen un automóvil, sino también por quienes estarían dispuestos a comprarlo y disponen de los medios para pagar su precio. (pág. 19)<br><br>
               h5 - Patricio Bonta y Mario Farber (2002)
-              i.fas.fa-quote-right
+            
         .col-lg-4.col-8.col-sm-6
           img(src="@/assets/curso/temas/tema2/img02.png", alt="")
       .py-3 
@@ -44,9 +45,9 @@
           .col-lg-12
             .bloque-texto-f.color-secundario.pt-4.px-5.mb-5
               .bloque-texto-f__comillas
-                i.fas.fa-quote-left
-                i.fas.fa-quote-right
-              p.text-regular.bloque-texto-f__texto Por su parte, Philip Kotler, Gary Armstrong, Dionisio Cámara e Ignacio Cruz (2012), en su libro “Marketing”, indican que el mercado es un “Conjunto de compradores reales y potenciales de un producto. Estos compradores comparten una necesidad o un deseo particular que puede satisfacerse mediante una relación de intercambio”. (pág.10)
+           
+           
+              p.text-regular.bloque-texto-f__texto Por su parte, Philip Kotler, Gary Armstrong, Dionisio Cámara e Ignacio Cruz (2012), en su libro “#[em marketing]”, indican que el mercado es un “Conjunto de compradores reales y potenciales de un producto. Estos compradores comparten una necesidad o un deseo particular que puede satisfacerse mediante una relación de intercambio”. (pág.10)
               h5.text-regular.bloque-texto-f__texto #[b - Philip Kotler, Gary Armstrong, Dionisio Cámara e Ignacio Cruz  (2012)]
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-5.col-8.col-sm-6.py-2
@@ -104,7 +105,7 @@
           p De acuerdo con el Ministerio de Comercio, Industria y Turismo, en Colombia existen cuatro tamaños de empresas, definidos por su actividad económica y por los ingresos que generan: 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-12.col-sm-10
+        .col-lg-12.col-sm-10.col-10
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
@@ -187,7 +188,7 @@
           p Una vez se hayan aplicado estas variables, es necesario determinar el tamaño del mercado de forma cuantitativa; para ello, se puede acceder a información secundaria disponible en algunas entidades y agremiaciones; por ejemplo, el DANE actualiza de forma permanente el censo económico y esta información se puede descargar de su sitio web. 
         .col-lg-6
           img.imgsize2(src="@/assets/curso/temas/tema2/fenalco.png").py-3
-          p Una vez se hayan aplicado estas variables, es necesario determinar el tamaño del mercado de forma cuantitativa; para ello, se puede acceder a información secundaria disponible en algunas entidades y agremiaciones; por ejemplo, el DANE actualiza de forma permanente el censo económico y esta información se puede descargar de su sitio web. 
+          p De igual manera, Fenalco proporciona bases de datos de comerciantes y las cámaras de comercio tienen información de las empresas registradas en cada ciudad o departamento; alguna tiene costo y otra se puede obtener de forma gratuita. Por consiguiente, la información cuantitativa da la posibilidad de crear estrategias con datos precisos y con el mínimo de riesgo en su desarrollo.
       
       hr
        
@@ -219,31 +220,36 @@
                 span a
               | <b>Mercado potencial</b>
         .col-lg-12
-          p Es el grupo de los posibles consumidores del producto o usuarios del servicio, en este segmento se aplican variables demográficas en las que se asignan rangos amplios, debido a que se tendrán en cuenta todos aquellos que compran productos similares o de la competencia. Por ejemplo, para una empresa que comercializa café instantáneo, los consumidores de café en general, hacen parte de su mercado potencial. Este mercado, permite el diseño de estrategias de desarrollo, las cuales se aplican de acuerdo con el análisis derivado de la matriz de Ansoff, de la que se habló anteriormente. Variables para la caracterización del mercado potencial:
+          p Es el grupo de los posibles consumidores del producto o usuarios del servicio, en este segmento se aplican variables demográficas en las que se asignan rangos amplios, debido a que se tendrán en cuenta todos aquellos que compran productos similares o de la competencia. Por ejemplo, para una empresa que comercializa café instantáneo, los consumidores de café en general, hacen parte de su mercado potencial. Este mercado, permite el diseño de estrategias de desarrollo, las cuales se aplican de acuerdo con el análisis derivado de la matriz de Ansoff, de la que se habló anteriormente. 
+          p Variables para la caracterización del mercado potencial:
       
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-        .col-lg-3.col-sm-6.col-8
+        .col-lg-3.col-sm-6.col-7
           img(src="@/assets/curso/temas/tema2/img06.png")
-
+          .py-2
         .col-lg-9
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
             .row(titulo="Ubicación geográfica")
-              .col-md-12.mb-4.mb-md-0
+              .col-md-10.mb-4.mb-md-0
                 p De la misma forma como se determinó el segmento industrial, en el de los consumidores también es necesario identificar un área geográfica donde la empresa desarrollará sus operaciones, este punto determinará el primer aspecto de potencialidad para su desarrollo comercial. Por ello, una vez definido el universo, es necesario hacerlo con las áreas específicas en que se llegará a los consumidores potenciales, debido a que en muchas ocasiones la cobertura total del universo es inalcanzable para la empresa. Por ejemplo, si se definió Antioquia como universo, la ubicación geográfica del mercado potencial puede abarcar los municipios del centro y del oriente del departamento.
-
+              .col-md-2.mb-4.mb-md-0.col-4
+                img(src="@/assets/curso/temas/tema2/01.png")
             .row(titulo="Sexo")
-              .col-md-12.mb-4.mb-md-0
+              .col-md-10.mb-4.mb-md-0
                 p Esta variable define el sexo del mercado al que la empresa dirige el producto, muchos de ellos van direccionados a ambos (hombres y mujeres).
-            
+              .col-md-2.mb-4.mb-md-0.col-4
+                img(src="@/assets/curso/temas/tema2/02.png")
             .row(titulo="Edad")
-              .col-md-12.mb-4.mb-md-0
+              .col-md-10.mb-4.mb-md-0
                 p En el mercado potencial, como ya se explicó, se deben incluir rangos amplios, incluyendo a todos aquellos posibles consumidores.
-
+              .col-md-2.mb-4.mb-md-0.col-4
+                img(src="@/assets/curso/temas/tema2/03.png")
             .row(titulo="Nivel socioeconómico")
-              .col-md-12.mb-4.mb-md-0
+              .col-md-10.mb-4.mb-md-0
                 p Para el caso de Colombia, se determina a través de la estratificación que va de 1 a 6. En este caso, también se incluyen todos los posibles compradores y por ello, se aplican rangos amplios.
-
+              .col-md-2.mb-4.mb-md-0.col-4
+                img(src="@/assets/curso/temas/tema2/04.png")
 
         p Estas cuatro variables permiten conocer el total del mercado potencial de la empresa; además, este dato cuantitativo permite planear estrategias de ventas y proyecciones de mercadeo. Por este motivo, al momento de querer cuantificar el mercado, es indispensable acudir a los datos que proporciona el DANE.
 
@@ -254,6 +260,7 @@
             h5 Tabla 1. 
             span Proceso de segmentación – Bogotá
           img(src='@/assets/curso/temas/tema2/tabla1.svg', alt='La tabla muestra la población de Bogotá, D.C. en 2020, dividida por grupos de edad y género, con un total de 7.743.955 personas: 3.707.833 hombres y 4.036.111 mujeres. Los datos están segmentados en intervalos de cinco años, desde 0-4 hasta 70-74 años. Por ejemplo, en el grupo de 0-4 años hay 493.287 personas (251.852 hombres y 241.435 mujeres), y en el grupo de 20-24 años hay 711.590 personas (354.946 hombres y 356.644 mujeres), proporcionando una visión detallada de la distribución etaria y de género en la ciudad. ')
+          figcaption Fuente: DANE (2020)
           .py-2
          
 
@@ -311,7 +318,7 @@
 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-12.col-sm-10
+        .col-lg-12.col-sm-10.col-10
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
@@ -381,7 +388,7 @@
                 .col-lg-8.fondo-morado.p-1
                   h5.text-center.text-white Nivel de ingresos
                 .py-2
-                  p.text-center La ocupación muchas veces no está ligada al nivel educativo de una persona, el conocerla puede dar indicios de los estilos de vida de los miembros del mercado y los posibles temas que les producen interés.     
+                  p.text-center Tener datos reales de los ingresos del mercado real, permite tomar decisiones en cuanto a presentaciones, precios y hasta la gama de los productos que se pongan en oferta. También, puede determinar la frecuencia y la cantidad de consumo.
           
 
         .row(data-aos="fade-left")
@@ -449,7 +456,7 @@
                     img(src='@/assets/curso/temas/tema2/img12.png', alt='')
               .col-md-9.mb-4.mb-md-0
                 h4 Pensamiento extrovertido
-                p Crean explicaciones del mundo y de lo que los rodea, a partir de lo que ven a su alrededor, creándose reglas casi inamovibles sobre la realidad. Estas personas no suelen cambiar muy fácilmente su forma de ver las cosas y, además, intentarán imponer su visión a los demás. También, les sucede a menudo que intentan reprimir sus emociones y sentimientos.                 . 
+                p Crean explicaciones del mundo y de lo que los rodea, a partir de lo que ven a su alrededor, creándose reglas casi inamovibles sobre la realidad. Estas personas no suelen cambiar muy fácilmente su forma de ver las cosas y, además, intentarán imponer su visión a los demás. También, les sucede a menudo que intentan reprimir sus emociones y sentimientos.             
 
             .row
               .col-md-9.mb-4.mb-md-0
@@ -536,7 +543,7 @@
 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-10.col-sm-10
+        .col-lg-10.col-sm-10.col-10
           SlyderF.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
@@ -581,7 +588,7 @@
       p.mb-5 #[b QC2D:] Este grupo de variables permite identificar el tipo de productos que una persona consume y su estilo regular de compra. La idea no es enfocarse en el producto para el cual se está segmentando, sino en su compra general, con el fin de hallar comportamientos comunes:
     
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-10.col-sm-10
+        .col-lg-10.col-sm-10.col-10
           SlyderF.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
@@ -623,7 +630,7 @@
                 .py-2
                   p.text-centeres indica el o los lugares del mercado donde se realiza la compra.
           .row.justify-content-center.align-items-center.mb-5
-            .col-lg-11
+            .col-lg-11.col-sm-12
               .cajon.color-secundario.p-4.mb-4
                 p Como se ha podido observar en este proceso de segmentación, para el desarrollo de la publicidad y las estrategias de comunicación, es necesario ser más exigentes con el análisis del consumidor, ya que el conocimiento profundo del comprador de un producto permite realizar acciones en función de llamar su atención, satisfacer sus necesidades a un nivel superior y obedecer a sus demandas a través del producto o servicio. Todas estas variables de caracterización se convierten en herramientas que, combinadas de la forma correcta, van a generar resultados eficaces en el proceso de comercialización y promoción de los bienes y servicios de la empresa.
       

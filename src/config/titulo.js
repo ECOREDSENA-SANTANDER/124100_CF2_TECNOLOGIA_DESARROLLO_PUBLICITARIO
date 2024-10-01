@@ -1,1 +1,1 @@
-module.exports = 'Estructura del <i>brief</i>'
+module.exports = 'Estructura del brief'
