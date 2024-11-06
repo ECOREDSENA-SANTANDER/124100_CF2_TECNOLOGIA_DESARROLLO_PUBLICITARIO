@@ -34,7 +34,7 @@
           .bloque-texto-b.color-secundario.p-4
             .bloque-texto-b__texto
         
-              p De acuerdo con Patricio Bonta y Mario Farber (2002), en su libro “199 Preguntas Sobre #[em marketing] y Publicidad”, el mercado es:<br><br>
+              p De acuerdo con Patricio Bonta y Mario Farber (2002), en su libro “199 Preguntas Sobre #[em Marketing] y Publicidad”, el mercado es:<br><br>
               p Donde confluyen la oferta y la demanda. En un sentido menos amplio, el mercado es el conjunto de todos los compradores reales y potenciales de un producto. Por ejemplo: el mercado de los autos está formado no solamente por aquellos que poseen un automóvil, sino también por quienes estarían dispuestos a comprarlo y disponen de los medios para pagar su precio. (pág. 19)<br><br>
               h5 - Patricio Bonta y Mario Farber (2002)
             
@@ -47,7 +47,7 @@
               .bloque-texto-f__comillas
            
            
-              p.text-regular.bloque-texto-f__texto Por su parte, Philip Kotler, Gary Armstrong, Dionisio Cámara e Ignacio Cruz (2012), en su libro “#[em marketing]”, indican que el mercado es un “Conjunto de compradores reales y potenciales de un producto. Estos compradores comparten una necesidad o un deseo particular que puede satisfacerse mediante una relación de intercambio”. (pág.10)
+              p.text-regular.bloque-texto-f__texto Por su parte, Philip Kotler, Gary Armstrong, Dionisio Cámara e Ignacio Cruz (2012), en su libro “#[em Marketing]”, indican que el mercado es un “Conjunto de compradores reales y potenciales de un producto. Estos compradores comparten una necesidad o un deseo particular que puede satisfacerse mediante una relación de intercambio”. (pág.10)
               h5.text-regular.bloque-texto-f__texto #[b - Philip Kotler, Gary Armstrong, Dionisio Cámara e Ignacio Cruz  (2012)]
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-5.col-8.col-sm-6.py-2
@@ -71,7 +71,7 @@
         .col-lg-3.col-8.col-sm-6.py-2
           img(src="@/assets/curso/temas/tema2/img04.png", alt="")
         .col-lg-9
-          p Muchas empresas tienen dentro de su portafolio productos o servicios, los cuales tienen como mercado objetivo otras empresas y su método de negociación incluye el B2B (Business to Business) o negocio a negocio. Por ejemplo, para un fabricante de máquinas de coser cuero, su mercado objetivo son fábricas de artículos de este material y no enfoca sus estrategias en el de consumidores.
+          p Muchas empresas tienen dentro de su portafolio productos o servicios, los cuales tienen como mercado objetivo otras empresas y su método de negociación incluye el B2B (#[em Business to Business]) o negocio a negocio. Por ejemplo, para un fabricante de máquinas de coser cuero, su mercado objetivo son fábricas de artículos de este material y no enfoca sus estrategias en el de consumidores.
           .row.justify-content-start.mb-4(data-aos="zoom-in-left")
             .col-sm-12.col-lg-9
               .d-flex.align-items-center.mt-4
@@ -83,7 +83,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
           h4 Selección del universo
-          p Uno de los tipos de segmentación más importantes es la geográfica. Este primer paso, permite deli  mitar el área de cobertura que tendrá el producto o servicio desde el punto de vista geográfico. El universo, es toda la zona donde hacen presencia los clientes y la empresa está en capacidad de llegar allí; por ejemplo, si una compañía vende harina industrial y sus clientes son fabricantes de alimentos, estos pueden estar en todo el país y hacer entregas del producto por un servicio de courier. En ese caso, el universo es Colombia, sin importar que su fabricación y distribución esté en el Valle del Cauca.
+          p Uno de los tipos de segmentación más importantes es la geográfica. Este primer paso, permite delimitar el área de cobertura que tendrá el producto o servicio desde el punto de vista geográfico. El universo, es toda la zona donde hacen presencia los clientes y la empresa está en capacidad de llegar allí; por ejemplo, si una compañía vende harina industrial y sus clientes son fabricantes de alimentos, estos pueden estar en todo el país y hacer entregas del producto por un servicio de courier. En ese caso, el universo es Colombia, sin importar que su fabricación y distribución esté en el Valle del Cauca.
         .col-lg-4.col-8.col-sm-6
           img(src="@/assets/curso/temas/tema2/img05.png", alt="")
       .row
@@ -121,7 +121,7 @@
                     | #[b Microempresas:] ingresos inferiores o iguales a $807'504.010.   
                   li 
                     i.fas.fa-check-circle
-                    | #[b Pequeñas empresas:]  ingresos superiores a $807’504.010 y menores o iguales a $7.025’178.65 
+                    | #[b Pequeñas empresas:]  ingresos superiores a $807’504.010 y menores o iguales a $7.025’178.650.
                   li 
                     i.fas.fa-check-circle
                     | #[b Medianas empresas:] ingresos superiores a $7.025’178.650 e inferiores o iguales a $59.512’082.550.
@@ -140,7 +140,7 @@
                 ul.lista-ul
                   li 
                     i.fas.fa-check-circle
-                    | #[b Microempresas:]  ingresos inferiores o iguales a $1.130’498.760  
+                    | #[b Microempresas:]  ingresos inferiores o iguales a $1.130’498.760.  
                   li 
                     i.fas.fa-check-circle
                     | #[b Pequeñas empresas:]   ingresos superiores a $1.130’498.760 e inferiores o iguales a $4.521’960.770.
@@ -211,7 +211,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
           img(src='@/assets/curso/temas/tema2/figura1.svg', alt='La imagen ilustra el proceso de segmentación de mercado mediante un diagrama concéntrico que abarca desde el universo total hasta segmentos específicos. Comienza con el mercado potencial, definido por variables demográficas básicas y geográficas, y se estrecha hacia el mercado real, caracterizado por variables psicográficas y demográficas más detalladas. Dentro del mercado real, se identifican grupos específicos (Grupo 1, Grupo 2, Grupo 3) que representan segmentos de mercado precisos basados en comportamientos de compra y rangos demográficos reducidos.')
-      
+          figcaption Fuente: SENA (2020)   
       .row.mb-5
         .col-lg-8
           ol.lista-ol--cuadro

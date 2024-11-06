@@ -24,7 +24,7 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
-          p El #[em brief] nace como documento estratégico en el ámbito militar, donde las tropas hacen un proceso que llaman briefing, cuando van a realizar un movimiento, emboscada o procedimiento; en él, analizan todos los pormenores, obstáculos, ventajas y oportunidades a las que se enfrentan para obtener éxitos y minimizar riesgos.
+          p El #[em brief] nace como documento estratégico en el ámbito militar, donde las tropas hacen un proceso que llaman #[em briefing], cuando van a realizar un movimiento, emboscada o procedimiento; en él, analizan todos los pormenores, obstáculos, ventajas y oportunidades a las que se enfrentan para obtener éxitos y minimizar riesgos.
           p En muchos campos profesionales, se realiza un #[em brief] para iniciar los proyectos que se van a llevar cabo; por ejemplo, en el desarrollo de productos audiovisuales, en el diseño gráfico y en algunos procesos estratégicos empresariales.
           p Para el caso de la publicidad, no hay un modelo de #[em brief] estándar; sin embargo, hay un grupo de elementos que son indispensables y básicos en la estructura de este documento. Los cuales, se verán a continuación divididos en dos tipos de #[em brief] que se han creado para facilitar el proceso de diagnóstico y planeación de la comunicación:
         .col-lg-4.col-sm-7
@@ -279,12 +279,12 @@
         .row.justify-content-center.align-items-center.mb-5(titulo="Mensaje")
           .col-md-6.mb-4.mb-md-0
               p #[b  Mensaje principal a comunicar:] la razón principal por la que se hace un #[em brief], es el desarrollo de un mensaje publicitario que luego será expuesto con imágenes, textos, videos, audios y la combinación de todos ellos. En este punto, la empresa toma las decisiones del mensaje a comunicar para que la agencia, asesor o #[em freelancer] publicitario las conviertan en conceptos creativos originales, llamativos y atractivos. Se divide en los siguientes elementos:
-              .row
+              .row.align-items-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law6.svg")
-                .col-md-10.mb-4.mb-md-0
+                .col-md-10.mb-2.mb-md-0
                   p #[b Beneficio racional:] describe lo que el consumidor debería pensar una vez sea expuesto al mensaje de la campaña.
-                .py-2
+                
                 .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law7.svg")
                 .col-md-10.mb-4.mb-md-0
@@ -293,7 +293,7 @@
                 .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law8.svg")
                 .col-md-10.mb-4.mb-md-0
-                  p #[b #[em Reason to believe:]] conocida también como reason why (la razón del por qué). Se refiere al motivo por la que el consumidor va a decidirse por el producto que se está promocionando, por qué debe creer que es mejor que el de la competencia.
+                  p #[b #[em Reason to believe:]] conocida también como #[em reason why] (la razón del por qué). Se refiere al motivo por la que el consumidor va a decidirse por el producto que se está promocionando, por qué debe creer que es mejor que el de la competencia.
           .col-md-4.mb-4.mb-md-0.col-8
             img(src="@/assets/curso/temas/tema1/img09.png")
         
@@ -322,7 +322,7 @@
         
         .row.justify-content-center.align-items-center.mb-5(titulo="Legales")
           .col-md-6.mb-4.mb-md-0
-            p #[b Legales:] Se deben relacionar aquellos elementos que la empresa debe incluir por temas legales o éticos: textos de advertencia, logos de entidades de vigilancia, logos de la empresa, iconos o fuentes de derechos de autor o demás elementos que considere el empresario.
+            p #[b Legales:] se deben relacionar aquellos elementos que la empresa debe incluir por temas legales o éticos: textos de advertencia, logos de entidades de vigilancia, logos de la empresa, iconos o fuentes de derechos de autor o demás elementos que considere el empresario.
           .col-md-4.mb-4.mb-md-0.col-8
             img(src="@/assets/curso/temas/tema1/img13.png")
       

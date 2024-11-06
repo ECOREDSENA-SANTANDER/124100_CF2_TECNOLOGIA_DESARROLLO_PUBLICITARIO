@@ -277,7 +277,7 @@ export default {
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrollador <i>fullstack</i>',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
@@ -287,7 +287,7 @@ export default {
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador <i>fullstack</i> junior',
+          cargo: 'Desarrollador <i>full stack</i> junior',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
