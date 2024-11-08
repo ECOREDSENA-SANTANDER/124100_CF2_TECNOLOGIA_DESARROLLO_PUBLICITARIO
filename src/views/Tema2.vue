@@ -105,8 +105,7 @@
           p De acuerdo con el Ministerio de Comercio, Industria y Turismo, en Colombia existen cuatro tamaños de empresas, definidos por su actividad económica y por los ingresos que generan: 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-12.col-sm-10.col-10
-          SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
+        .col-lg-3.col-sm-10.col-10
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
                 .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
@@ -128,7 +127,7 @@
                   li 
                     i.fas.fa-check-circle
                     | #[b Grandes empresas:]  ingresos superiores al valor expresado anteriormente.     
-                      
+        .col-lg-3.col-sm-10.col-10            
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
                 .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
@@ -152,7 +151,7 @@
                     i.fas.fa-check-circle
                     | #[b Grandes empresas:]   ingresos superiores al valor expresado anteriormente.
     
-            
+        .col-lg-3.col-sm-10.col-10
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
                 .col-sm-3.col-lg-5.my-5.d-none.d-lg-block

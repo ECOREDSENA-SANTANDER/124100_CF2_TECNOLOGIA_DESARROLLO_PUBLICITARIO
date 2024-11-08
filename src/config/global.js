@@ -195,23 +195,24 @@ export default {
   ],
   complementario: [
     {
-      tema: 'El <i>brief</i>',
+      tema: '1. El <i>brief</i>.',
       referencia: 'SCRIBD. Modelo <i>brief</i> de primer contacto.',
       tipo: 'Documento  ',
       link:
         'https://es.scribd.com/document/655566910/Modelo-brief-de-primer-contacto ',
     },
     {
-      tema: 'El <i>brief</i>',
+      tema: '1. El <i>brief</i>.',
       referencia: 'Modelo <i>brief</i> de campaña táctica. ',
       tipo: 'Documento PDF  ',
       link: 'https://es.scribd.com/document/511165411/Brief-campan-a-ta-ctica ',
     },
     {
-      tema: 'Concepto de mercado ',
-      referencia: 'Fernández, R. (2009). Segmentación de mercados. ',
-      tipo: 'Libro digital ',
-      link: 'edu/35795511/Segmentacino_de_Mercados_Ricardo_Fernandez_V ',
+      tema: '2.1. Concepto de mercado. ',
+      referencia:
+        'Robin, C. F., & Torres, C. A. (2001). Segmentación de mercados: buscando la correlación entre variables sicológicas y demográficas. Revista colombiana de Marketing, 2(2).',
+      tipo: 'Documento PDF',
+      link: 'https://www.redalyc.org/pdf/109/10900204.pdf ',
     },
   ],
   creditos: [
