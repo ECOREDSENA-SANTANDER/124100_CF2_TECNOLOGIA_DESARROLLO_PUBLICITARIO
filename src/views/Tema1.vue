@@ -43,8 +43,9 @@
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/MrwV11u-FW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Brief publicitario
+        figcaption Video: #[em Brief publicitario]
 
+      h3 Elementos del brief de primer contacto
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-8.col-sm-4
           img(src="@/assets/curso/temas/tema1/img03.svg", alt="")
@@ -198,7 +199,7 @@
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/WTEgWp3YTm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Brief de campaña táctica
+        figcaption Video: #[em Brief] de campaña táctica
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7

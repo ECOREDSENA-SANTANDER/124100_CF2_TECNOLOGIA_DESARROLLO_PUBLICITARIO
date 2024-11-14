@@ -8,10 +8,12 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    p Le invitamos a consultar atentamente el video que se presenta a continuación, el cual explica de manera clara los elementos fundamentales que debe contener un #[em brief] publicitario.
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/MrwV11u-FW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/FGED5DiHFlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: #[em Brief] publicitario
     
 

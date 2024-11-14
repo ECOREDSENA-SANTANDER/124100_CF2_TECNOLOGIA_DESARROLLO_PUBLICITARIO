@@ -181,6 +181,8 @@
             img.w-card-icon(src="@/assets/curso/temas/tema2/3.png")
             h3.bg13.py-2.w-card-text Actividad económica
       
+      p Esta variable determina a qué se dedican las empresas que hacen parte del mercado objetivo; por ejemplo: panaderías, ferreterías, empresas de servicios de aseo, etc.
+      
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
           img.imgsize1(src="@/assets/curso/temas/tema2/dane.png").py-3
