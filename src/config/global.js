@@ -92,7 +92,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF2_124100_CFA.zip',
       },
       {
         icono: 'fas fa-download',
