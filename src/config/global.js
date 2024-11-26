@@ -92,7 +92,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF2_124100_CFA.zip',
+        download: 'downloads/CF2_124100_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -210,9 +210,9 @@ export default {
     {
       tema: '2.1. Concepto de mercado. ',
       referencia:
-        'Robin, C. F., & Torres, C. A. (2001). Segmentación de mercados: buscando la correlación entre variables sicológicas y demográficas. Revista colombiana de Marketing, 2(2).',
+        'Robin, C. F., & Torres, C. A. (2001). Segmentación de mercados: buscando la correlación entre variables sicológicas y demográficas. Revista colombiana de Marketing, 2(2). PDF',
       tipo: 'Documento PDF',
-      link: 'https://www.redalyc.org/pdf/109/10900204.pdf ',
+      link: 'https://www.redalyc.org/pdf/109/10900204.pdf',
     },
   ],
   creditos: [

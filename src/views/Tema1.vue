@@ -261,7 +261,7 @@
         
         .row.justify-content-center.align-items-center.mb-5(titulo="<i>Target</i>")
           .col-md-6.mb-4.mb-md-0
-              p #[em #[b  target:]] siendo la variable más importante del mercado, el target de la marca es el elemento principal a analizar en un #[em brief] para el desarrollo de la campaña. Para este punto, deben tenerse en cuenta dos partes fundamentales:
+              p #[em #[b  Target:]] siendo la variable más importante del mercado, el target de la marca es el elemento principal a analizar en un #[em brief] para el desarrollo de la campaña. Para este punto, deben tenerse en cuenta dos partes fundamentales:
               .row
                 .col-md-2.mb-4.mb-md-0.col-3
                   img(src="@/assets/curso/temas/tema1/law4.svg")
