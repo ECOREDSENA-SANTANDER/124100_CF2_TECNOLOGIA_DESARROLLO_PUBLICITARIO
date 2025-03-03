@@ -13,8 +13,8 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/FGED5DiHFlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: #[em Brief] publicitario
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/gb3vVjXgvZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: el poder del #[em Brief]
     
 
 </template>

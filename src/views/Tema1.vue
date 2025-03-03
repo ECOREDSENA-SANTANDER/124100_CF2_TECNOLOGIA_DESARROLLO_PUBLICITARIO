@@ -43,9 +43,9 @@
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/MrwV11u-FW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: #[em Brief publicitario]
+        figcaption Video: #[em brief] publicitario
 
-      h3 Elementos del brief de primer contacto
+      h3 Elementos del #[em brief] de primer contacto
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-8.col-sm-4
           img(src="@/assets/curso/temas/tema1/img03.svg", alt="")
